@@ -1,0 +1,3 @@
+echo.
+echo Starting application...
+npm start
